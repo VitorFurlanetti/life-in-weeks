@@ -1,0 +1,183 @@
+'2017-01-01': 
+  - name: " Nos conhecemos na CI&T"
+    desc: "Projeto da Ambev"
+    category: "relacionamento"
+
+'2017-08-16': 
+  - name: "👩‍❤️‍👨 Nosso primeiro beijo"
+    category: "relacionamento"
+
+'2017-10-15': 
+  - name: "🎵 Show Paul McCartney"
+    category: "shows"
+
+'2017-11-22': 
+  - name: "🎵 Show Bruno Mars"
+    category: "shows"
+
+'2018-01-02':
+  - name: "Viagem para Holambra"
+    category: "Viagens"
+
+'2018-01-22': 
+  - name: "👩‍❤️‍👨 Começamos a namorar"
+    category: "relacionamentos"
+
+'2018-02-21': 
+  - name: "Vitor - Cirurgia desvio de septo"
+    category: "saúde"
+
+'2018-08-20': 
+  - name: "Viagem para Monte Verde"
+    desc: "Fer passou mal e voltamos antes"
+    category: "Viagens"
+
+'2018-11-02': 
+  - name: "Viagem para BH"
+    category: "Viagens"
+
+'2022-02-10':
+- name: "✈️ Viagem para Florianópolis"
+  category: "viagens"
+
+'2018-08-28':
+- name: "✈️ Viagem para o Buenos Aires"
+  category: "viagens"
+
+'2019-01-16':
+  - name: "Viagem para Guarujá"
+    category: "Viagens"  
+
+'2019-02-23': 
+  - name: "Viagem para Campos do Jordão"
+    desc: "Com Helvécio e Ieda"
+    category: "Viagens"
+
+'2019-08-03': 
+  - name: "🗽 Vitor vai visitar Fer em NY"
+    category: "viagens"
+
+'2019-10-01':
+  - name: "Viagem para Campos do Jordão"
+    category: "Viagens"
+
+'2019-11-23': 
+  - name: "🗽 Vitor vai visitar Fer em NY"
+    category: "viagens"
+
+'2019-12-07': 
+  - name: "🎉 Festa da CI&T em San Diego"
+    category: "viagens"
+
+'2020-01-25': 
+  - name: "Viagem para Itajubá"
+    desc: "Formatura do Felipe"
+    category: "viagens"
+
+'2020-01-29':
+  - name: "Viagem para Guarujá"
+    category: "Viagens"
+
+'2020-02-13':
+  - name: "Aula cozinha chef Mauro"
+    desc: "Chef Mauro - Benedito"
+    category: "Viagens"
+
+'2020-02-22':
+  - name: "Viagem para Campos do Jordão"
+    category: "Viagens"
+
+'2020-03-11':
+  - name: "🦠 COVID 19"
+    category: "mundo"
+
+'2020-10-30':
+- name: "🏢 Nos mudamos para o Vox"
+  category: "moradia"
+
+'2021-05-23':
+- name: "🏍️ Compramos moto BMW"
+  category: "compras"
+
+'2021-07-06':
+- name: "💼 Vitor começa trabalhar no Nubank"
+  category: "trabalho"
+
+'2021-11-13':
+- name: "💍 Noivamos"
+  desc: "Viagem para Paraisópolis"
+  category: "familia"
+
+'2021-08-16':
+- name: "🐶 Adotamos o Toddy"
+  category: "familia"
+
+'2022-02-27':
+  - name: "Viagem para Sto Antônio do Pinhal"
+    category: "Viagens"
+
+'2022-04-12':
+  - name: "Castração do Toddy"
+    category: "Toddy"
+
+
+'2022-04-22':
+  - name: "Viagem para Alfenas"
+    desc: "Formatura do Luciano"
+    category: "Viagens"
+
+
+'2022-04-25':
+- name: "🏡 Compramos nossa casa em Paulínia"
+  category: "compras"
+
+'2022-09-11':
+- name: "✈️ Viagem para o Chile"
+  category: "viagens"
+
+'2022-09-22':
+- name: "⛰️ Viagem para Gonçalves/MG"
+  desc: "Hospedagem no Matakaa"
+  category: "viagens"
+
+'2023-01-24':
+- name: "Viagem para Paraty e Angra dos Reis"
+  category: "viagens"
+
+'2023-02-12':
+- name: "Vitor faz cirurgia ortognática"
+  category: "saúde"
+
+'2023-02-28':
+- name: "🚗 Compramos o Jeep Renegade"
+  category: "compras"
+
+'2023-04-07':
+- name: "Viagem para Amparo/Serra Negra"
+  category: "viagens"  
+
+'2023-08-05':
+- name: "👰‍♀️🤵‍♂️ Nos casamos"
+  category: "familia"
+
+'2023-09-09':
+  - name: "Viagem para São Tomé"
+    category: "Viagens"  
+
+'2023-10-12':
+  - name: "Viagem para Mairiporã"
+    desc: "Com Porfs e Aline. Primeira viagem do Toddy"
+    category: "Viagens"  
+
+'2023-12-02': 
+  - name: "🎵 Primavera Sound"
+    desc: "Cure / Pet Shop Boys. Vitor teve Intoxicação Alimentar"
+    category: "shows"
+
+'2023-12-31': 
+  - name: "Ano novo em Campinas"
+    category: "shows"
+
+'2024-01-17':
+- name: "👩‍🍳👨‍🍳 Começamos curso de culinária"
+  category: "cursos"

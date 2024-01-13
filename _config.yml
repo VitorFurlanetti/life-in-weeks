@@ -1,0 +1,24 @@
+site: Buster's Notes
+url: https://busterbenson.com
+title: Buster's Notes
+description: Notes
+permalink: pretty
+
+baseurl: ""
+
+sass:
+  sass_dir: _sass
+  style:    :compressed
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+
