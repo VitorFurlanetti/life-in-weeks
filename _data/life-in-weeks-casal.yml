@@ -154,7 +154,17 @@
 
 '2023-04-07':
 - name: "Viagem para Amparo/Serra Negra"
-  category: "viagens"  
+  category: "viagens"
+
+'2023-04-22':
+  - name: "🎵 Monsters of Rock"
+    desc: "Deep Purple / Scorpions / Kiss"
+    category: "shows"  
+
+'2023-05-20':
+  - name: "🎵 C6 Fest"
+    desc: "Kraftwerk"
+    category: "shows"      
 
 '2023-08-05':
 - name: "👰‍♀️🤵‍♂️ Nos casamos"
