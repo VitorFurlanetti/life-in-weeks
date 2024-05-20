@@ -208,3 +208,11 @@
   - name: "Viagem para Serra Negra/Águas de Lindóia"
     desc: "Dia das mães"
     category: "Viagens"  
+
+'2024-05-15':
+  - name: "🍕 Forninho de Pizza"
+    category: "compras"  
+
+'2024-05-18':
+  - name: "🎵 Show Pato Fu"
+    category: "Shows"  
