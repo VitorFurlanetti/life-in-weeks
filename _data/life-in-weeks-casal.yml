@@ -221,3 +221,12 @@
   - name: "1a noite da Pizza 🍕"
     desc: "Estréia do forninho"
     category: "Outros"  
+
+'2024-07-11':
+  - name: "🩼 Cirurgia Toddy"
+    desc: "Suspeita mastocitoma"
+    category: "saúde"
+
+'2024-08-05':
+  - name: "💍 1o Aniversário de casamento"
+    category: "Aniversário"
