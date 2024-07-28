@@ -1,5 +1,5 @@
 '2017-01-01': 
-  - name: " Nos conhecemos na CI&T"
+  - name: "Nos conhecemos na CI&T"
     desc: "Projeto da Ambev"
     category: "relacionamento"
 
@@ -103,13 +103,13 @@
 - name: "💼 Vitor começa trabalhar no Nubank"
   category: "trabalho"
 
+'2021-08-16':
+- name: "🐶 Adotamos o Toddy"
+  category: "familia"
+
 '2021-11-13':
 - name: "💍 Noivamos"
   desc: "Viagem para Paraisópolis"
-  category: "familia"
-
-'2021-08-16':
-- name: "🐶 Adotamos o Toddy"
   category: "familia"
 
 '2022-02-27':
@@ -120,12 +120,10 @@
   - name: "Castração do Toddy"
     category: "Toddy"
 
-
 '2022-04-22':
   - name: "Viagem para Alfenas"
     desc: "Formatura do Luciano"
     category: "Viagens"
-
 
 '2022-04-25':
 - name: "🏡 Compramos nossa casa em Paulínia"
@@ -201,7 +199,7 @@
   category: "casa"
 
 '2024-03-25':
-- name: "Começamos a montar o Lego de cabana"
+- name: "🏕 Começamos a montar o Lego de cabana"
   category: "Outros"
 
 '2024-05-11':
@@ -218,7 +216,7 @@
     category: "Shows"  
 
 '2024-05-25':
-  - name: "1a noite da Pizza 🍕"
+  - name: "🍕 1a noite da Pizza"
     desc: "Estréia do forninho"
     category: "Outros"  
 
@@ -226,6 +224,10 @@
   - name: "🩼 Cirurgia Toddy"
     desc: "Suspeita mastocitoma"
     category: "saúde"
+
+'2024-07-26':
+- name: "💼 Fer pede demissão ArcTouch"
+  category: "trabalho"   
 
 '2024-08-05':
   - name: "💍 1o Aniversário de casamento"
