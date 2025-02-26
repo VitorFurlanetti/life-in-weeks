@@ -233,6 +233,18 @@
   - name: "💍 1o Aniversário de casamento"
     category: "Aniversário"
 
-'2021-09-02':
+'2024-09-02':
 - name: "💼 Fer começa trabalhar no Quinto Andar"
   category: "trabalho"
+
+'2024-11-01':
+- name: "🧱 Começa reforma em casa"
+  category: "casa"
+
+'2025-02-01':
+- name: "🧱 Termina reforma em casa"
+  category: "casa"
+
+'2025-02-25':
+- name: "🩼 Vitor quebra o pé"
+  category: "saúde"
