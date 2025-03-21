@@ -172,10 +172,6 @@
   - name: "🇫🇷 Lua de mel em Paris"
     category: "Viagens"  
 
-'2023-09-09':
-  - name: "Viagem para São Tomé"
-    category: "Viagens"  
-
 '2023-10-12':
   - name: "Viagem para Mairiporã"
     desc: "Com Porfs e Aline. Primeira viagem do Toddy"
@@ -241,7 +237,7 @@
 - name: "🧱 Começa reforma em casa"
   category: "casa"
 
-'2025-02-01':
+'2025-01-25':
 - name: "🧱 Termina reforma em casa"
   category: "casa"
 
