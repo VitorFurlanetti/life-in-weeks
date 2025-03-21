@@ -16,7 +16,7 @@
     category: "shows"
 
 '2018-01-02':
-  - name: "Viagem para Holambra"
+  - name: "🌼 Viagem para Holambra"
     category: "Viagens"
 
 '2018-01-22': 
@@ -41,15 +41,15 @@
   category: "viagens"
 
 '2018-08-28':
-- name: "✈️ Viagem para o Buenos Aires"
+- name: "🇦🇷 Viagem para o Buenos Aires"
   category: "viagens"
 
 '2019-01-16':
-  - name: "Viagem para Guarujá"
+  - name: "🏝️ Viagem para Guarujá"
     category: "Viagens"  
 
 '2019-02-23': 
-  - name: "Viagem para Campos do Jordão"
+  - name: "❄️ Viagem para Campos do Jordão"
     desc: "Com Helvécio e Ieda"
     category: "Viagens"
 
@@ -58,7 +58,7 @@
     category: "viagens"
 
 '2019-10-01':
-  - name: "Viagem para Campos do Jordão"
+  - name: "❄️ Viagem para Campos do Jordão"
     category: "Viagens"
 
 '2019-11-23': 
@@ -75,7 +75,7 @@
     category: "viagens"
 
 '2020-01-29':
-  - name: "Viagem para Guarujá"
+  - name: "🏝️ Viagem para Guarujá"
     category: "Viagens"
 
 '2020-02-13':
@@ -84,7 +84,7 @@
     category: "Viagens"
 
 '2020-02-22':
-  - name: "Viagem para Campos do Jordão"
+  - name: "❄️ Viagem para Campos do Jordão"
     category: "Viagens"
 
 '2020-03-11':
@@ -113,7 +113,7 @@
   category: "familia"
 
 '2022-02-27':
-  - name: "Viagem para Sto Antônio do Pinhal"
+  - name: "⛰️ Viagem para Sto Antônio do Pinhal"
     category: "Viagens"
 
 '2022-04-12':
@@ -130,7 +130,7 @@
   category: "compras"
 
 '2022-09-11':
-- name: "✈️ Viagem para o Chile"
+- name: "🇨🇱 Viagem para o Chile"
   category: "viagens"
 
 '2022-09-22':
@@ -139,11 +139,11 @@
   category: "viagens"
 
 '2023-01-24':
-- name: "Viagem para Paraty e Angra dos Reis"
+- name: "🏝️ Viagem para Paraty e Angra dos Reis"
   category: "viagens"
 
 '2023-02-12':
-- name: "Vitor faz cirurgia ortognática"
+- name: "💀 Vitor faz cirurgia ortognática"
   category: "saúde"
 
 '2023-02-28':
@@ -151,7 +151,7 @@
   category: "compras"
 
 '2023-04-07':
-- name: "Viagem para Amparo/Serra Negra"
+- name: "⛰️ Viagem para Amparo/Serra Negra"
   category: "viagens"
 
 '2023-04-22':
@@ -169,7 +169,7 @@
   category: "familia"
 
 '2023-08-08':
-  - name: "Lua de mel em Paris"
+  - name: "🇫🇷 Lua de mel em Paris"
     category: "Viagens"  
 
 '2023-09-09':
@@ -187,7 +187,7 @@
     category: "shows"
 
 '2023-12-31': 
-  - name: "Ano novo em Campinas"
+  - name: "🥂 Ano novo em Campinas"
     category: "shows"
 
 '2024-01-17':
