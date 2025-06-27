@@ -97,7 +97,7 @@
 
 '2021-05-23':
 - name: "🏍️ Compramos moto BMW"
-  category: "compras"
+  category: "conquistas"
 
 '2021-07-06':
 - name: "💼 Vitor começa trabalhar no Nubank"
@@ -127,7 +127,7 @@
 
 '2022-04-25':
 - name: "🏡 Compramos nossa casa em Paulínia"
-  category: "compras"
+  category: "conquistas"
 
 '2022-09-11':
 - name: "🇨🇱 Viagem para o Chile"
@@ -148,7 +148,7 @@
 
 '2023-02-28':
 - name: "🚗 Compramos o Jeep Renegade"
-  category: "compras"
+  category: "conquistas"
 
 '2023-04-07':
 - name: "⛰️ Viagem para Amparo/Serra Negra"
@@ -205,7 +205,7 @@
 
 '2024-05-15':
   - name: "🍕 Forninho de Pizza"
-    category: "compras"  
+    category: "conquistas"  
 
 '2024-05-18':
   - name: "🎵 Show Pato Fu"
@@ -222,28 +222,28 @@
     category: "saúde"
 
 '2024-07-26':
-- name: "💼 Fer pede demissão ArcTouch"
-  category: "trabalho"   
+  - name: "💼 Fer pede demissão ArcTouch"
+    category: "trabalho"   
 
 '2024-08-05':
   - name: "💍 1o Aniversário de casamento"
     category: "Aniversário"
 
 '2024-09-02':
-- name: "💼 Fer começa trabalhar no Quinto Andar"
-  category: "trabalho"
+  - name: "💼 Fer começa trabalhar no Quinto Andar"
+    category: "trabalho"
 
 '2024-11-01':
-- name: "🧱 Começa reforma em casa"
-  category: "casa"
+  - name: "🧱 Começa reforma em casa"
+    category: "casa"
 
 '2025-01-25':
-- name: "🧱 Termina reforma em casa"
-  category: "casa"
+  - name: "🧱 Termina reforma em casa"
+    category: "casa"
 
 '2025-02-25':
-- name: "🩼 Vitor quebra o pé"
-  category: "saúde"
+  - name: "🩼 Vitor quebra o pé"
+    category: "saúde"
 
 '2025-03-01': 
   - name: "❄️ Carnaval em Campos do Jordão"
@@ -252,3 +252,7 @@
 '2025-05-09': 
   - name: "🎂 Fernanda faz 35 anos"
     category: "Aniversário"
+
+'2022-05-13':
+  - name: "⛰️ Compramos nosso terreno em Campos"
+    category: "conquistas"
