@@ -241,6 +241,10 @@
   - name: "🧱 Termina reforma em casa"
     category: "casa"
 
+'2025-02-01':
+  - name: "💼 Vitor é promovido"
+    category: "trabalho"    
+
 '2025-02-25':
   - name: "🩼 Vitor quebra o pé"
     category: "saúde"
@@ -253,6 +257,6 @@
   - name: "🎂 Fernanda faz 35 anos"
     category: "Aniversário"
 
-'2022-05-13':
+'2025-05-13':
   - name: "⛰️ Compramos nosso terreno em Campos"
     category: "conquistas"
