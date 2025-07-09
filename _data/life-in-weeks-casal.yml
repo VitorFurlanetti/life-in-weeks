@@ -3,6 +3,14 @@
     desc: "Projeto da Ambev"
     category: "relacionamento"
 
+'2017-01-28': 
+  - name: "🎂 Vitor faz 31 anos"
+    category: "Aniversário"
+
+'2017-05-09': 
+  - name: "🎂 Fernanda faz 27 anos"
+    category: "Aniversário"
+
 '2017-08-16': 
   - name: "👩‍❤️‍👨 Nosso primeiro beijo"
     category: "relacionamento"
@@ -23,35 +31,47 @@
   - name: "👩‍❤️‍👨 Começamos a namorar"
     category: "relacionamentos"
 
+'2018-01-28': 
+  - name: "🎂 Vitor faz 32 anos"
+    category: "Aniversário"
+
 '2018-02-21': 
   - name: "Vitor - Cirurgia desvio de septo"
     category: "saúde"
+
+'2018-05-09': 
+  - name: "🎂 Fernanda faz 28 anos"
+    category: "Aniversário"
 
 '2018-08-20': 
   - name: "Viagem para Monte Verde"
     desc: "Fer passou mal e voltamos antes"
     category: "Viagens"
 
-'2018-11-02': 
-  - name: "Viagem para BH"
-    category: "Viagens"
-
-'2022-02-10':
-- name: "✈️ Viagem para Florianópolis"
-  category: "viagens"
-
 '2018-08-28':
 - name: "🇦🇷 Viagem para o Buenos Aires"
   category: "viagens"
+
+'2018-11-02': 
+  - name: "Viagem para BH"
+    category: "Viagens"
 
 '2019-01-16':
   - name: "🏝️ Viagem para Guarujá"
     category: "Viagens"  
 
+'2019-01-28': 
+  - name: "🎂 Vitor faz 33 anos"
+    category: "Aniversário"
+
 '2019-02-23': 
   - name: "❄️ Viagem para Campos do Jordão"
     desc: "Com Helvécio e Ieda"
     category: "Viagens"
+
+'2019-05-09': 
+  - name: "🎂 Fernanda faz 29 anos"
+    category: "Aniversário"
 
 '2019-08-03': 
   - name: "🗽 Vitor vai visitar Fer em NY"
@@ -74,6 +94,10 @@
     desc: "Formatura do Felipe"
     category: "viagens"
 
+'2020-01-28': 
+  - name: "🎂 Vitor faz 34 anos"
+    category: "Aniversário"
+
 '2020-01-29':
   - name: "🏝️ Viagem para Guarujá"
     category: "Viagens"
@@ -91,9 +115,21 @@
   - name: "🦠 COVID 19"
     category: "mundo"
 
+'2020-05-09': 
+  - name: "🎂 Fernanda faz 30 anos"
+    category: "Aniversário"
+
 '2020-10-30':
 - name: "🏢 Nos mudamos para o Vox"
   category: "moradia"
+
+'2021-01-28': 
+  - name: "🎂 Vitor faz 35 anos"
+    category: "Aniversário"
+
+'2021-05-09': 
+  - name: "🎂 Fernanda faz 31 anos"
+    category: "Aniversário"
 
 '2021-05-23':
 - name: "🏍️ Compramos moto BMW"
@@ -112,6 +148,14 @@
   desc: "Viagem para Paraisópolis"
   category: "familia"
 
+'2022-01-28': 
+  - name: "🎂 Vitor faz 36 anos"
+    category: "Aniversário"
+
+'2022-02-10':
+- name: "✈️ Viagem para Florianópolis"
+  category: "viagens"
+
 '2022-02-27':
   - name: "⛰️ Viagem para Sto Antônio do Pinhal"
     category: "Viagens"
@@ -129,6 +173,10 @@
 - name: "🏡 Compramos nossa casa em Paulínia"
   category: "conquistas"
 
+'2022-05-09': 
+  - name: "🎂 Fernanda faz 32 anos"
+    category: "Aniversário"
+
 '2022-09-11':
 - name: "🇨🇱 Viagem para o Chile"
   category: "viagens"
@@ -141,6 +189,10 @@
 '2023-01-24':
 - name: "🏝️ Viagem para Paraty e Angra dos Reis"
   category: "viagens"
+
+'2023-01-28': 
+  - name: "🎂 Vitor faz 37 anos"
+    category: "Aniversário"
 
 '2023-02-12':
 - name: "💀 Vitor faz cirurgia ortognática"
@@ -158,6 +210,10 @@
   - name: "🎵 Monsters of Rock"
     desc: "Deep Purple / Scorpions / Kiss"
     category: "shows"  
+
+'2023-05-09': 
+  - name: "🎂 Fernanda faz 33 anos"
+    category: "Aniversário"
 
 '2023-05-20':
   - name: "🎵 C6 Fest"
@@ -194,9 +250,17 @@
 - name: "Barzinho instalado"
   category: "casa"
 
+'2024-01-28': 
+  - name: "🎂 Vitor faz 38 anos"
+    category: "Aniversário"
+
 '2024-03-25':
 - name: "🏕 Começamos a montar o Lego de cabana"
   category: "Outros"
+
+'2024-05-09': 
+  - name: "🎂 Fernanda faz 34 anos"
+    category: "Aniversário"
 
 '2024-05-11':
   - name: "Viagem para Serra Negra/Águas de Lindóia"
@@ -241,6 +305,10 @@
   - name: "🧱 Termina reforma em casa"
     category: "casa"
 
+'2025-01-28': 
+  - name: "🎂 Vitor faz 39 anos"
+    category: "Aniversário"
+
 '2025-02-01':
   - name: "💼 Vitor é promovido"
     category: "trabalho"    
@@ -260,3 +328,7 @@
 '2025-05-13':
   - name: "⛰️ Compramos nosso terreno em Campos"
     category: "conquistas"
+
+'2025-08-05':
+  - name: "💍 2o Aniversário de casamento"
+    category: "Aniversário"
