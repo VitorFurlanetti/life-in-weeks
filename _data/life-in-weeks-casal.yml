@@ -329,17 +329,23 @@
   - name: "⛰️ Compramos nosso terreno em Campos"
     category: "conquistas"
 
-
 '2025-07-15':
   - name: "🎾 Começamos a jogar tênis"
     category: "Atividades"
-    
 
 '2025-08-05':
   - name: "💍 2o Aniversário de casamento"
     category: "Aniversário"
 
-'2024-08-23':
+'2025-08-23':
   - name: "🏥 Cirurgia Fer"
     desc: "Cisto e endometriose"
     category: "saúde"
+
+'2025-09-26':
+  - name: "🇮🇹 Viagem Itália"
+    category: "Viagens"
+
+'2025-10-13':
+  - name: "💼 Vitor troca de time"
+    category: "Trabalho"
